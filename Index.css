@@ -1,0 +1,33 @@
+Nav{width: 1200px;height: 50px;margin:auto;padding:0px;}
+      .Cen{width: 500px; ;height:300px ;margin:auto;padding: 0px;margin-top: 100px;}
+      .img{margin-left: 150px;}
+      .Hi{color: aliceblue;float: left;border-style:solid;border-radius: 20px;padding:5px;width:200px;
+    text-align: center;margin-left: 10px;position: absolute;margin-left: 200px;}
+      .Vm{color: aliceblue;float: left;border-style:solid;border-radius: 20px;padding:5px;width:200px;
+    text-align: center;margin-left: 10px;position: absolute;margin: auto;padding: 0px;margin-left: 200px;}
+      ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  font-size: 20px;
+  
+}
+
+li {
+  float: left;
+  margin-left: 150px;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+video{margin: auto;padding: 0px;margin-left: 180px;}
